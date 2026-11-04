@@ -1,0 +1,12 @@
+{
+  "name": "mosek-multi-services",
+  "main": "Workers.js",
+  "compatibility_date": "2026-11-03",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "Mosek multi services db",
+      "database_id": "13396e7a-1744-40c4-aeb2-fbdd0cde5852"
+    }
+  ]
+}
